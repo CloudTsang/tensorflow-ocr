@@ -1,6 +1,6 @@
 # tensorflow-ocr
 
-参考消息与环球时报的新闻标题识别
+中文汉字印刷体识别
 
 
-所属项目：中宣
+修改自这个仓库[https://github.com/soloice/Chinese-Character-Recognition]
