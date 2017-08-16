@@ -1,0 +1,10 @@
+fonts/
+__pycache__/
+data/
+temp
+wordset/
+t.jpg
+t.png
+*.jpg
+*.png
+models/
