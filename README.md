@@ -2,6 +2,7 @@
 
 ### 中文汉字印刷体识别
 修改自这个[仓库](https://github.com/soloice/Chinese-Character-Recognition)
+
 主要是修改了数据输入部分的代码，复用了原作者的网络结构和程序结构。
 
 ### config.py
