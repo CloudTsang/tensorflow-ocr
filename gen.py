@@ -74,30 +74,6 @@ def test_gen_image(text, size, font, dir, h_offset=0, v_offset=0):
     im.save(path, format="png")
 
 if __name__ == '__main__':
-#    word1 = codecs.open("wordset/word1.txt", 'r', 'utf-8').read()
-#    punct = codecs.open("wordset/punctuation.txt").read()
-#    chars = punct
-
-#    text = '警'
-#    size = [20, 24, 28, 32, 36, 40, 50, 56, 62, 68, 74, 80, 86]
-#    fonts = os.listdir("./fonts")
-#    size_ = size[-1]
-#    font = fonts[1]
-#    gen_image(text, size_, font)
-
-#    font = "E:/Mory/gogs/tensorflow-ocr/fonts/bold/msyhbd.ttf"
-
-#    dirname = os.path.basename(font)[:-4]
-#    size = 20
-#    dir = f"data/{dirname}/punct/{size}/"
-#
-#    for w in chars:
-#        test_gen_image(w, size, font, dir)
-#        break
-#    gen_image(chars, size, font, dir)
-#==============================================================================
-# special
-#==============================================================================
     font = "E:/Mory/gogs/tensorflow-ocr/fonts/sim/FanZhenCuShongJianTi.ttf"
     size = 26
     dir = f"data/special/{size}/"
