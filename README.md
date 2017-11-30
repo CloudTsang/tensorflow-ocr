@@ -1,4 +1,6 @@
 # tensorflow-ocr
+适用于接口的版本，放在[这里](https://github.com/siriusdemon/hackaway/tree/master/projects/ocr)
+
 
 ### 中文汉字印刷体识别
 修改自这个[仓库](https://github.com/soloice/Chinese-Character-Recognition)
