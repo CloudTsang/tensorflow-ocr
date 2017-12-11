@@ -23,4 +23,4 @@
 + 去掉tensorflow-ocr.py与config.py的重复定义
 
 ### 用法
-python chinese_rec.py --mode=train --max_steps=200000 --eval_steps=1000 --save_steps=10000
+python tensorflow-ocr.py --mode=train --max_steps=200000 --eval_steps=1000 --save_steps=10000
